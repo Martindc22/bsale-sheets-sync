@@ -1,0 +1,10 @@
+﻿{
+  "ventas": [
+    {"id": 101, "fecha": "2026-09-12", "comprobante": "B001-450", "total": 1250.00, "cliente": "Juan Pérez"},
+    {"id": 102, "fecha": "2026-09-13", "comprobante": "B001-451", "total": 890.50, "cliente": "María Gómez"}
+  ],
+  "stock": [
+    {"sku": "PROD-001", "nombre": "Heladera Gafa", "stock_actual": 14, "precio_unitario": 450000},
+    {"sku": "PROD-002", "nombre": "Aire Acondicionado BGH", "stock_actual": 5, "precio_unitario": 620000}
+  ]
+}
